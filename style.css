@@ -1,0 +1,42 @@
+h1 {
+    font-size: 72px;
+    color: darkblue;
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+h3 {
+    font-family: 'Abril Fatface', cursive;
+    color: coral
+}
+
+h4 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.navlink {
+    color: darkgreen;
+}
+
+hp {
+    font-size: 45px;
+    font-family: 'Bebas Neue', cursive;
+    color: orangered;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.shadow {
+    font-size: 20px;
+}
+
+.heading {
+    font-family: 'Raleway', sans-serif;
+    color: orange
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+}
